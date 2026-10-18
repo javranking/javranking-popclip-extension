@@ -1,0 +1,32 @@
+# PopClip Extension Configuration for JavRanking
+# Documentation: https://www.popclip.app/dev/
+identifier: cc.javranking.popclip
+name: JavRanking
+popclipVersion: 4193
+icon: icon.svg
+url: https://javranking.cc/{popclip option locale}/search/?q=***
+cleanQuery: true
+
+description:
+  en: Search videos, actresses, and rankings on JavRanking.
+  zh-hans: 在 JavRanking 查询影片番号、演员档案与排行榜。
+  zh-hant: 在 JavRanking 查詢影片番號、演員檔案與排行榜。
+
+app:
+  name: JavRanking
+  link: https://javranking.cc
+
+options:
+  - identifier: locale
+    label:
+      en: Language
+      zh-hans: 语言版本
+      zh-hant: 語言版本
+    type: multiple
+    defaultValue: zh-hans
+    values:
+      - zh-hans
+      - en
+    valueLabels:
+      - 简体中文
+      - English

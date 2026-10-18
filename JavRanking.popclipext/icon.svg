@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <g fill="currentColor">
+    <!-- JavRanking 'J' lettermark -->
+    <path d="M 9.1 5.8 H 12.35 V 15.6 A 4.5 4.5 0 0 1 3.35 15.6 V 14.5 H 6.55 V 15.6 A 1.3 1.3 0 0 0 9.1 15.6 V 5.8 Z"/>
+    <!-- JavRanking '↑' upward rank arrow -->
+    <path d="M 17.1 3.2 L 20.8 8.6 H 18.4 V 20.2 H 15.8 V 8.6 H 13.4 Z"/>
+  </g>
+</svg>
